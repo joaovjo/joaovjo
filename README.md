@@ -1,16 +1,36 @@
-### Hi there 👋
+<div>
+  <a target="_blank" href="https://www.linkedin.com/in/joaovitordejesusoliveira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a target="_blank" href="https://twitter.com/joaovjo">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a target="_blank" href="https://www.instagram.com/joaovjo/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a target="_blank" href="https://www.twitch.tv/joaovjo">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+  <a target="_blank" href="https://www.facebook.com/joaovitordejesusoliveira">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+</div>
 
-<!--
-**joaovjo/joaovjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá 👋
 
-Here are some ideas to get you started:
+Eu realmente não sei como você chegou aqui, mas vou tentar mostrar um pouco sobre mim para vocês.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Informações públicas
+
+Me chamo João Vitor. Atualmente eu moro em Sorocaba/SP.
+
+Atualmente estou estudando Técnico em Desenvolvimento de Sistemas na Etec Fernando Prestes.
+
+Faço parte da comunidade @he4rtdevs e sempre tento estar interagindo com os outros membros.
+
+## Informações pessoais
+
+* **Nome**: João Vitor de Jesus Oliveira
+* **Idade**: 25
+* **Atualmente moro em**: Sorocaba, São Paulo, Brazil
+* **Estudando**: Técnico em Desenvolvimento de Sistemas pela Etec Fernando Prestes
