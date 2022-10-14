@@ -31,6 +31,6 @@ Faço parte da comunidade @he4rtdevs e sempre tento estar interagindo com os out
 ## Informações pessoais
 
 * **Nome**: João Vitor de Jesus Oliveira
-* **Idade**: 25
+* **Idade**: 26
 * **Atualmente moro em**: Sorocaba, São Paulo, Brasil
 * **Estudando**: Técnico em Desenvolvimento de Sistemas pela Etec Fernando Prestes
