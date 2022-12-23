@@ -24,7 +24,7 @@ Eu realmente não sei como você chegou aqui, mas vou tentar mostrar um pouco so
 
 Me chamo João Vitor. Atualmente eu moro em Sorocaba/SP.
 
-Atualmente estou estudando Técnico em Desenvolvimento de Sistemas na Etec Fernando Prestes.
+Técnico em Desenvolvimento de Sistemas pela Etec Fernando Prestes.
 
 Faço parte da comunidade @he4rtdevs e sempre tento estar interagindo com os outros membros.
 
