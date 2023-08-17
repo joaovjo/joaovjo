@@ -24,13 +24,15 @@ Eu realmente não sei como você chegou aqui, mas vou tentar mostrar um pouco so
 
 Me chamo João Vitor. Atualmente eu moro em Sorocaba/SP.
 
-Técnico em Desenvolvimento de Sistemas pela Etec Fernando Prestes.
+Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica e Técnico em Desenvolvimento de Sistemas pela Etec Fernando Prestes.
 
 Faço parte da comunidade @he4rtdevs e sempre tento estar interagindo com os outros membros.
 
 ## Informações pessoais
 
 * **Nome**: João Vitor de Jesus Oliveira
-* **Idade**: 26
+* **Idade**: 27
 * **Atualmente moro em**: Sorocaba, São Paulo, Brasil
-* **Formação escolar**: Técnico em Desenvolvimento de Sistemas pela Etec Fernando Prestes.
+* **Formação escolar**:
+  - Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica.
+  - Técnico em Desenvolvimento de Sistemas pela Etec Fernando Prestes.
